@@ -1,6 +1,6 @@
 # Blurry Image
 
-![image](/image.gif){: width="100" height="100"}
+![image](./image.gif)
 
 ## 배운점
 
