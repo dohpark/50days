@@ -1,5 +1,7 @@
 # 제목
 
+![image](./image.gif)
+
 ## 배운점
 
 #### CSS
