@@ -1,6 +1,6 @@
 # Form Input Wave
 
-![image](./image.gif)
+![image](./image/image.gif)
 
 ## 배운점
 
