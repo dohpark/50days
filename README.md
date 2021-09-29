@@ -12,3 +12,4 @@ Udemy의 강의를 보며 하루에 한개씩 바닐라자바스크립트 미니
 - [Day 5 - Blurry Image](./Day5)
 - [Day 6 - Scroll Animation](./Day6)
 - [Day 7 - Split Landing Page](./Day7)
+- [Day 8 - Form Wave Animation](./Day8)
