@@ -18,3 +18,4 @@ Udemy의 강의를 보며 하루에 한개씩 바닐라자바스크립트 미니
 - [Day 10 - Dad Jokes](./Day10)
 - [Day 11 - Event KeyCodes](./Day11)
 - [Day 12 - FAQ Collapse](./Day12)
+- [Day 13 - Random Choice Picker](./Day13)
